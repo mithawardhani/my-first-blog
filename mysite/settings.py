@@ -25,7 +25,7 @@ SECRET_KEY = '$jik=_2-$@59bul+xi$9q4_zlg@^47_4v4ndhmhz+7=okadsnm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
